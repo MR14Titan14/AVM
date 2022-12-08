@@ -1,0 +1,81 @@
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\Interpol_Lagranzh_Withgrafik.exe.config
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\Interpol_Lagranzh_Withgrafik.exe
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\Interpol_Lagranzh_Withgrafik.pdb
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ZedGraph.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ZedGraph.xml
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.AssemblyReference.cache
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.Properties.Resources.resources
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.GenerateResource.cache
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.CopyComplete
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.exe
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.pdb
+C:\Users\Sasha\source\repos\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Lagrange.Form1.resources
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\Interpol_Lagranzh_Withgrafik.exe.config
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\Interpol_Lagranzh_Withgrafik.exe
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\Interpol_Lagranzh_Withgrafik.pdb
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ZedGraph.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ZedGraph.xml
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.AssemblyReference.cache
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Lagrange.Form1.resources
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.Properties.Resources.resources
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.GenerateResource.cache
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.CoreCompileInputs.cache
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.CopyComplete
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.exe
+C:\Users\sanse\Desktop\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.pdb
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\Interpol_Lagranzh_Withgrafik.exe.config
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\Interpol_Lagranzh_Withgrafik.exe
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\Interpol_Lagranzh_Withgrafik.pdb
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ZedGraph.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ZedGraph.xml
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.AssemblyReference.cache
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Lagrange.Form1.resources
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.Properties.Resources.resources
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.GenerateResource.cache
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.csproj.CopyComplete
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.exe
+C:\Users\Sasha\OneDrive\Рабочий стол\Interpol_Lagranzh_Withgrafik\Interpol_Lagranzh_Withgrafik\obj\Debug\Interpol_Lagranzh_Withgrafik.pdb
